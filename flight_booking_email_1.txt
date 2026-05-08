@@ -1,4 +1,0 @@
-Customer: Micaela Diaz
-Flight Number: AA984
-Departure Time: 2026-06-01T10:00
-Arrival Time: 2026-06-01T16:00
